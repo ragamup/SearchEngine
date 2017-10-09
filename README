@@ -1,0 +1,20 @@
+Submitted code:
+1)crawling.py
+2)serialise_index.py
+3)Tokeniser.py
+4)Main.py
+5)stemming.py
+
+Instructions to run the code:
+
+1) Run Main.py as python Main.py to get the search results.
+   enter the query in the console to get the results based on query
+   To continue the execution for next query please enter Y.
+
+2) Crawling the UNT domain is done by executing the file crawling.py as python crawling.py
+	
+
+
+
+
+	
